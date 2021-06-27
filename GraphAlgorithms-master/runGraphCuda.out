@@ -1,0 +1,7 @@
+ptxas info    : 106 bytes gmem
+ptxas info    : Compiling entry function '_Z8myKernelP9inputDataP10outputData' for 'sm_30'
+ptxas info    : Function properties for _Z8myKernelP9inputDataP10outputData
+    16 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 336 bytes cmem[0]
+DONE INPUTFILE1024
+DONE Arranged
