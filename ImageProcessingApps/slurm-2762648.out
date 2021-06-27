@@ -1,0 +1,88 @@
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `find_pixel_matrix':
+processCPU.c:(.text+0x11d1f): undefined reference to `floor'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `roberts_operator':
+processCPU.c:(.text+0x12198): undefined reference to `powf'
+processCPU.c:(.text+0x121be): undefined reference to `powf'
+processCPU.c:(.text+0x121cb): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `sobel_operator':
+processCPU.c:(.text+0x12413): undefined reference to `powf'
+processCPU.c:(.text+0x12439): undefined reference to `powf'
+processCPU.c:(.text+0x12446): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `prewitt_operator_3by3kernel':
+processCPU.c:(.text+0x1268e): undefined reference to `powf'
+processCPU.c:(.text+0x126b4): undefined reference to `powf'
+processCPU.c:(.text+0x126c1): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `prewitt_operator_5by5kernel':
+processCPU.c:(.text+0x12ad6): undefined reference to `powf'
+processCPU.c:(.text+0x12afc): undefined reference to `powf'
+processCPU.c:(.text+0x12b09): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `vertical_operator':
+processCPU.c:(.text+0x12d51): undefined reference to `powf'
+processCPU.c:(.text+0x12d77): undefined reference to `powf'
+processCPU.c:(.text+0x12d84): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `horizontal_operator':
+processCPU.c:(.text+0x12fcc): undefined reference to `powf'
+processCPU.c:(.text+0x12ff2): undefined reference to `powf'
+processCPU.c:(.text+0x12fff): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `diagonal_compass_nw_operator':
+processCPU.c:(.text+0x13247): undefined reference to `powf'
+processCPU.c:(.text+0x1326d): undefined reference to `powf'
+processCPU.c:(.text+0x1327a): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `diagonal_compass_ne_operator':
+processCPU.c:(.text+0x134c2): undefined reference to `powf'
+processCPU.c:(.text+0x134e8): undefined reference to `powf'
+processCPU.c:(.text+0x134f5): undefined reference to `sqrtf'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `rgb_to_hsi':
+processCPU.c:(.text+0x136b6): undefined reference to `sqrt'
+processCPU.c:(.text+0x13712): undefined reference to `acos'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `hsi_to_rgb':
+processCPU.c:(.text+0x13934): undefined reference to `cos'
+processCPU.c:(.text+0x13958): undefined reference to `cos'
+processCPU.c:(.text+0x13a18): undefined reference to `cos'
+processCPU.c:(.text+0x13a3c): undefined reference to `cos'
+processCPU.c:(.text+0x13afc): undefined reference to `cos'
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o:processCPU.c:(.text+0x13b20): more undefined references to `cos' follow
+/mnt/bgfs/tbagies/2762648/ccqaGC07.o: In function `increase_intensity':
+processCPU.c:(.text+0x14482): undefined reference to `floorf'
+processCPU.c:(.text+0x144bc): undefined reference to `floorf'
+collect2: error: ld returned 1 exit status
+/tmp/slurmd/job2762648/slurm_script: line 19: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 20: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 21: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 22: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 23: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 24: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 25: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 26: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 27: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 28: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 29: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 30: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 31: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 32: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 33: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 34: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 35: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 36: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 37: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 38: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 39: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 40: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 41: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 42: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 43: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 44: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 45: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 46: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 47: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 48: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 49: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 50: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 51: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 52: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 53: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 54: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 55: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 56: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 57: ./processCPU: No such file or directory
+/tmp/slurmd/job2762648/slurm_script: line 58: ./processCPU: No such file or directory

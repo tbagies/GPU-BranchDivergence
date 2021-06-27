@@ -1,0 +1,5 @@
+==46971== NVPROF is profiling process 46971, command: ./processNUMCudaProfiler ArrangedInput.txt
+==46971== Profiling application: ./processNUMCudaProfiler ArrangedInput.txt
+==46971== Profiling result:
+No events/metrics were profiled.
+==46971== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.

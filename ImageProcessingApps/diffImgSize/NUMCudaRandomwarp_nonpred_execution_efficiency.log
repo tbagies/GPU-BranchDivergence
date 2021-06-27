@@ -1,0 +1,8 @@
+==44115== NVPROF is profiling process 44115, command: ./processNUMCudaProfiler inputFile1024.txt
+==44115== Profiling application: ./processNUMCudaProfiler inputFile1024.txt
+==44115== Profiling result:
+==44115== Metric result:
+Invocations                               Metric Name                         Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1         warp_nonpred_execution_efficiency   Warp Non-Predicated Execution Efficiency       4.32%       4.32%       4.32%

@@ -1,0 +1,5 @@
+==47165== NVPROF is profiling process 47165, command: ./processNUMCudaProfiler inputFile1024.txt
+==47165== Profiling application: ./processNUMCudaProfiler inputFile1024.txt
+==47165== Profiling result:
+No events/metrics were profiled.
+==47165== Warning: One or more events or metrics overflowed. Rerun with "--print-gpu-trace" for detail.

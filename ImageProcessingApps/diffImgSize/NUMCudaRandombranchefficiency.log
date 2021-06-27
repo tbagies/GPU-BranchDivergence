@@ -1,0 +1,8 @@
+==43308== NVPROF is profiling process 43308, command: ./processNUMCudaProfiler inputFile1024.txt
+==43308== Profiling application: ./processNUMCudaProfiler inputFile1024.txt
+==43308== Profiling result:
+==43308== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1                         branch_efficiency                         Branch Efficiency      98.67%      98.67%      98.67%

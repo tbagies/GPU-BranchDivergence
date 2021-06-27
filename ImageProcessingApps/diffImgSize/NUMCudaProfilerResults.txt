@@ -1,0 +1,14 @@
+ArrangedInput.txt 68.137357 seconds
+inputFile1024.txt 54.876857 seconds
+ArrangedInput.txt 763.998474 seconds
+inputFile1024.txt 574.583702 seconds
+ArrangedInput.txt 68.043261 seconds
+inputFile1024.txt 53.216384 seconds
+ArrangedInput.txt 396.055441 seconds
+inputFile1024.txt 307.832737 seconds
+ArrangedInput.txt 395.782542 seconds
+inputFile1024.txt 308.243229 seconds
+ArrangedInput.txt 395.869145 seconds
+inputFile1024.txt 307.631221 seconds
+ArrangedInput.txt 75.763788 seconds
+inputFile1024.txt 59.215048 seconds

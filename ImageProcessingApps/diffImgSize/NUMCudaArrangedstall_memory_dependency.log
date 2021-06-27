@@ -1,0 +1,9 @@
+==46103== NVPROF is profiling process 46103, command: ./processNUMCudaProfiler ArrangedInput.txt
+==46103== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==46103== Profiling application: ./processNUMCudaProfiler ArrangedInput.txt
+==46103== Profiling result:
+==46103== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1                   stall_memory_dependency        Issue Stall Reasons (Data Request)      17.22%      17.22%      17.22%

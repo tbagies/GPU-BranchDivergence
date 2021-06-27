@@ -1,0 +1,8 @@
+==42398== NVPROF is profiling process 42398, command: ./processNUMCudaProfiler ArrangedInput.txt
+==42398== Profiling application: ./processNUMCudaProfiler ArrangedInput.txt
+==42398== Profiling result:
+==42398== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1                         branch_efficiency                         Branch Efficiency      94.92%      94.92%      94.92%

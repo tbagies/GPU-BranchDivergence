@@ -1,0 +1,9 @@
+==46584== NVPROF is profiling process 46584, command: ./processNUMCudaProfiler inputFile1024.txt
+==46584== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==46584== Profiling application: ./processNUMCudaProfiler inputFile1024.txt
+==46584== Profiling result:
+==46584== Metric result:
+Invocations                               Metric Name                        Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1                   stall_memory_dependency        Issue Stall Reasons (Data Request)      16.62%      16.62%      16.62%

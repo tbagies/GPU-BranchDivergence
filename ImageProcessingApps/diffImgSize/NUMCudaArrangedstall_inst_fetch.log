@@ -1,0 +1,9 @@
+==44280== NVPROF is profiling process 44280, command: ./processNUMCudaProfiler ArrangedInput.txt
+==44280== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==44280== Profiling application: ./processNUMCudaProfiler ArrangedInput.txt
+==44280== Profiling result:
+==44280== Metric result:
+Invocations                               Metric Name                         Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1                          stall_inst_fetch   Issue Stall Reasons (Instructions Fetch)      26.67%      26.67%      26.67%

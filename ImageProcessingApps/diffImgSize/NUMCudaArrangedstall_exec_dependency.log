@@ -1,0 +1,9 @@
+==45195== NVPROF is profiling process 45195, command: ./processNUMCudaProfiler ArrangedInput.txt
+==45195== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==45195== Profiling application: ./processNUMCudaProfiler ArrangedInput.txt
+==45195== Profiling result:
+==45195== Metric result:
+Invocations                               Metric Name                           Metric Description         Min         Max         Avg
+Device "Tesla V100-PCIE-32GB (0)"
+    Kernel: myKernel(inputData*, outputData*)
+          1                     stall_exec_dependency   Issue Stall Reasons (Execution Dependency)      55.77%      55.77%      55.77%
