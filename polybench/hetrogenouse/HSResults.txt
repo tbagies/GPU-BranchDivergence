@@ -1,0 +1,3 @@
+inputFile1024.txt: 36.780000 seconds
+inputFile1024.txt: 36.750000 seconds
+inputFile1024.txt: 610.810000 seconds

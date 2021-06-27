@@ -1,0 +1,43 @@
+intputFile1024.txt: 371.090000 seconds
+intputFile1024.txt: 368.640000 seconds
+intputFile1024.txt: 369.530000 seconds
+intputFile1024.txt: 369.470000 seconds
+intputFile1024.txt: 369.370000 seconds
+intputFile1024.txt: 369.450000 seconds
+intputFile1024.txt: 369.470000 seconds
+intputFile1024.txt: 368.710000 seconds
+intputFile1024.txt: 369.340000 seconds
+intputFile1024.txt: 369.430000 seconds
+intputFile1024.txt: 368.910000 seconds
+intputFile1024.txt: 369.570000 seconds
+intputFile1024.txt: 369.600000 seconds
+intputFile1024.txt: 369.530000 seconds
+intputFile1024.txt: 369.410000 seconds
+intputFile1024.txt: 369.480000 seconds
+intputFile1024.txt: 368.810000 seconds
+intputFile1024.txt: 369.530000 seconds
+intputFile1024.txt: 369.420000 seconds
+intputFile1024.txt: 369.390000 seconds
+
+
+
+inputFile1024SmallSize.txt: 22.180000 seconds
+inputFile1024SmallSize.txt: 20.630000 seconds
+inputFile1024SmallSize.txt: 21.330000 seconds
+inputFile1024SmallSize.txt: 20.580000 seconds
+inputFile1024SmallSize.txt: 21.400000 seconds
+inputFile1024SmallSize.txt: 21.340000 seconds
+inputFile1024SmallSize.txt: 21.250000 seconds
+inputFile1024SmallSize.txt: 21.430000 seconds
+inputFile1024SmallSize.txt: 21.450000 seconds
+inputFile1024SmallSize.txt: 21.200000 seconds
+inputFile1024SmallSize.txt: 20.910000 seconds
+inputFile1024SmallSize.txt: 21.460000 seconds
+inputFile1024SmallSize.txt: 20.570000 seconds
+inputFile1024SmallSize.txt: 21.300000 seconds
+inputFile1024SmallSize.txt: 21.510000 seconds
+inputFile1024SmallSize.txt: 21.220000 seconds
+inputFile1024SmallSize.txt: 20.760000 seconds
+inputFile1024SmallSize.txt: 21.340000 seconds
+inputFile1024SmallSize.txt: 20.560000 seconds
+inputFile1024SmallSize.txt: 21.440000 seconds
