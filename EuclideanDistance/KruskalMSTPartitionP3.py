@@ -1,3 +1,6 @@
+#### This code caculates Euclidean distance and constructs MST by using Kruskal algorithm from https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/ #####
+
+
 import math
 import networkx as nx
 #import matplotlib
